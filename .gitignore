@@ -1,0 +1,7 @@
+# Vercel project link (created on first deploy)
+.vercel/
+website/.vercel/
+
+# Never commit secrets
+.vercel-token
+.env
